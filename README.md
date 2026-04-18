@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Deivid 👋
 
-<!--
-**deividlnascimento/deividlnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full stack desktop developer (in training)
+☕ Java | 🐍 Python | 🗄️ MySQL
+🌏 Learning Mandarin
 
-Here are some ideas to get you started:
+## 🚀 What I enjoy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building complete systems, from user interface to database.
+
+## 🛠️ Technologies
+
+* Java (desktop applications)
+* Python
+* MySQL
+
+## 📌 Goal
+
+To build increasingly complete systems and land my first opportunity as a developer.
