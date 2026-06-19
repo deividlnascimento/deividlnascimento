@@ -25,15 +25,13 @@ My current focus is on:
 * **Java** — desktop applications, logic, and software structure
 * **MySQL** — relational databases and SQL
 * **Python** — automation, utilities, and scripting
-* **Git & GitHub** — version control and project documentation
-
+  
 ---
 
 ## Current Projects
 
 * **Biblioteca MVA** — Java desktop system
 * **Língjī** — local personal assistant with LLM, TTS, and modular architecture
-* **NExTI** — practical technical project experience and documentation
 * **Prime Tech Assistência** — technical support, maintenance, and real-world IT service cases
 
 ---
