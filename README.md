@@ -1,19 +1,45 @@
-# Hi, I'm Deivid 👋
+# Deivid Levir | 周志恒
 
-💻 Full stack desktop developer (in training)
-☕ Java | 🐍 Python | 🗄️ MySQL
-🌏 Learning Mandarin
+**Systems Analysis and Development student building practical software systems.**
 
-## 🚀 What I enjoy
+Java desktop applications · MySQL databases · Python automation · Git & GitHub
 
-Building complete systems, from user interface to database.
+---
 
-## 🛠️ Technologies
+## Focus
 
-* Java (desktop applications)
-* Python
-* MySQL
+I am building a foundation in software development through practical projects, technical documentation, and continuous study.
 
-## 📌 Goal
+My current focus is on:
 
-To build increasingly complete systems and land my first opportunity as a developer.
+* Java desktop applications and object-oriented programming
+* Relational databases with MySQL
+* Python for automation and tooling
+* Version control with Git and GitHub
+* Technical Chinese and Mandarin study
+
+---
+
+## Technologies
+
+* **Java** — desktop applications, logic, and software structure
+* **MySQL** — relational databases and SQL
+* **Python** — automation, utilities, and scripting
+* **Git & GitHub** — version control and project documentation
+
+---
+
+## Current Projects
+
+* **Biblioteca MVA** — Java desktop system
+* **Língjī** — local personal assistant with LLM, TTS, and modular architecture
+* **NExTI** — practical technical project experience and documentation
+* **Prime Tech Assistência** — technical support, maintenance, and real-world IT service cases
+
+---
+
+## Objective
+
+To build increasingly reliable software systems, develop strong technical foundations, and earn my first professional opportunity in technology.
+
+> Discipline in learning. Precision in execution. Continuous improvement.
