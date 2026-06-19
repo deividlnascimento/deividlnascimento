@@ -21,6 +21,12 @@ My current areas of focus are:
 * **MySQL** — relational databases and SQL
 * **Python** — automation, utilities, and scripting
 
+## Languages · 语言
+
+* **Portuguese** — native
+* **English** — B2 proficiency
+* **Mandarin Chinese** — ongoing study, with a focus on technical vocabulary
+
 ## Projects and Practice · 项目与实践
 
 * **Biblioteca MVA** *(private)* — Java desktop system
