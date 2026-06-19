@@ -1,43 +1,36 @@
-# Deivid Nascimento | 周志恒
+# Deivid Nascimento · 周志恒
 
-**Systems Analysis and Development student building practical software systems.**
+Systems Analysis and Development student building practical software systems.
 
-Java desktop applications · MySQL databases · Python automation · Git & GitHub
+**Java desktop applications · MySQL databases · Python automation**
 
----
+## Focus · 学习重点
 
-## Focus
+I am developing practical experience through personal projects, technical documentation, and continuous study.
 
-I am building a foundation in software development through practical projects, technical documentation, and continuous study.
-
-My current focus is on:
+My current areas of focus are:
 
 * Java desktop applications and object-oriented programming
-* Relational databases with MySQL
-* Python for automation and tooling
-* Version control with Git and GitHub
-* Technical Chinese and Mandarin study
+* Relational databases and SQL with MySQL
+* Python automation, scripting, and small utilities
+* Mandarin study, with an emphasis on technical vocabulary
 
----
+## Technologies · 技术栈
 
-## Technologies
-
-* **Java** — desktop applications, logic, and software structure
+* **Java** — desktop applications, program logic, and software structure
 * **MySQL** — relational databases and SQL
 * **Python** — automation, utilities, and scripting
-  
----
 
-## Current Projects
+## Projects and Practice · 项目与实践
 
-* **Biblioteca MVA** — Java desktop system
-* **Língjī** — local personal assistant with LLM, TTS, and modular architecture
-* **Prime Tech Assistência** — technical support, maintenance, and real-world IT service cases
+* **Biblioteca MVA** *(private)* — Java desktop system
+* **Língjī · 灵机** *(in development)* — local personal assistant integrating an LLM, TTS, and modular components
+* **Prime Tech Assistência** — technical support, PC maintenance, and service documentation
 
----
+## Objective · 目标
 
-## Objective
+To build reliable, well-documented software systems, strengthen my foundations in programming and automation, and earn my first professional opportunity in technology.
 
-To build increasingly reliable software systems, develop strong technical foundations, and earn my first professional opportunity in technology.
-
-> Discipline in learning. Precision in execution. Continuous improvement.
+> 精益求精。
+> *Discipline in learning. Precision in execution. Continuous improvement.*
+****
