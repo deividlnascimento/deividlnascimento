@@ -2,24 +2,30 @@
 
 Systems Analysis and Development student building practical software systems.
 
-**Java desktop applications · MySQL databases · Python automation**
+**PHP / Laravel · TypeScript / TSX · Docker · Git · MySQL**
 
 ## Focus · 学习重点
 
-I am developing practical experience through personal projects, technical documentation, and continuous study.
+I am developing practical experience through collaborative projects and personal projects, technical documentation, and continuous study.
 
 My current areas of focus are:
 
-* Java desktop applications and object-oriented programming
+* PHP and Laravel for backend and web application development
+* TypeScript and TSX for frontend development
+* Docker and Docker Compose for containerized development environments
+* Git and GitHub for version control and collaborative development
 * Relational databases and SQL with MySQL
-* Python automation, scripting, and small utilities
 * Mandarin study, with an emphasis on technical vocabulary
 
 ## Technologies · 技术栈
 
-* **Java** — desktop applications, program logic, and software structure
+Currently learning and working with:
+
+* **PHP / Laravel** — backend and web application development
+* **TypeScript / TSX** — frontend development within current projects
+* **Docker / Docker Compose** — containerized development environments
+* **Git / GitHub** — version control and collaborative development
 * **MySQL** — relational databases and SQL
-* **Python** — automation, utilities, and scripting
 
 ## Languages · 语言
 
@@ -35,8 +41,7 @@ My current areas of focus are:
 
 ## Objective · 目标
 
-To build reliable, well-documented software systems, strengthen my foundations in programming and automation, and earn my first professional opportunity in technology.
+To build reliable, well-documented software systems, strengthen my foundations in software development, and grow through practical and collaborative projects.
 
 > 精益求精。
 > *Discipline in learning. Precision in execution. Continuous improvement.*
-****
